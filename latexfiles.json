@@ -1,0 +1,224 @@
+[
+    {
+        "creator": "LaTeX",
+        "extension": ".aux",
+        "name": "LaTeX auxillary",
+        "type": "auxillary"
+    },
+    {
+        "creator": "LaTeX",
+        "extension": ".log",
+        "name": "LaTeX log",
+        "type": "log"
+    },
+    {
+        "creator": "LaTeX",
+        "extension": ".toc",
+        "name": "table of contents",
+        "type": "include"
+    },
+    {
+        "creator": "LaTeX",
+        "extension": ".lof",
+        "name": "list of figures",
+        "type": "include"
+    },
+    {
+        "creator": "LaTeX",
+        "extension": ".lot",
+        "name": "list of tables",
+        "type": "include"
+    },
+    {
+        "creator": "LaTeX",
+        "extension": ".lol",
+        "name": "list of lists",
+        "type": "include"
+    },
+    {
+        "creator": "LaTeX",
+        "extension": ".fls",
+        "name": "LaTeX file trace",
+        "type": "log"
+    },
+    {
+        "creator": "algorithm",
+        "extension": ".loa",
+        "name": "list of algorithms",
+        "type": "include"
+    },
+    {
+        "creator": "makeidx",
+        "extension": ".idx",
+        "name": "index source",
+        "type": "auxillary"
+    },
+    {
+        "creator": "makeindex",
+        "extension": ".ilg",
+        "name": "index generation log",
+        "type": "log"
+    },
+    {
+        "creator": "makeindex",
+        "extension": ".ind",
+        "name": "index",
+        "type": "include"
+    },
+    {
+        "creator": "sty",
+        "extension": ".ist",
+        "name": "makeindex style file",
+        "type": "style"
+    },
+    {
+        "creator": "makeindex",
+        "extension": ".gls",
+        "name": "glossary",
+        "type": "include"
+    },
+    {
+        "creator": "glossaries",
+        "extension": ".glo",
+        "name": "glossary source",
+        "type": "auxillary"
+    },
+    {
+        "creator": "makeindex",
+        "extension": ".glg",
+        "name": "glossary log",
+        "type": "log"
+    },
+    {
+        "creator": "glossaries",
+        "extension": ".acn",
+        "name": "acronym",
+        "type": "auxillary"
+    },
+    {
+        "creator": "makeglossaries",
+        "extension": ".acr",
+        "name": "acronym",
+        "type": "include"
+    },
+    {
+        "creator": "glossaries",
+        "extension": ".alg",
+        "name": "acronym log",
+        "type": "log"
+    },
+    {
+        "creator": "bibtex",
+        "extension": ".bbl",
+        "name": "bibliography",
+        "type": "include"
+    },
+    {
+        "creator": "bibtex",
+        "extension": ".blg",
+        "name": "bibtex log",
+        "type": "log"
+    },
+    {
+        "creator": "biblatex",
+        "extension": ".bcf",
+        "name": "biblatex control",
+        "type": "auxillary"
+    },
+    {
+        "creator": "biber",
+        "extension": ".run.xml",
+        "name": "biber xml",
+        "type": "auxillary"
+    },
+    {
+        "creator": "biblatex",
+        "extension": "-blx.bib",
+        "name": "biblatex control file",
+        "type": "auxillary"
+    },
+    {
+        "creator": "backref",
+        "extension": ".brf",
+        "name": "backref",
+        "type": "auxillary"
+    },
+    {
+        "creator": "footnpag",
+        "extension": ".fot",
+        "name": "footnpag footnote",
+        "type": "auxillary"
+    },
+    {
+        "creator": "hyperref",
+        "extension": ".out",
+        "name": "hyperref PDF bookmarks",
+        "type": "auxillary"
+    },
+    {
+        "creator": "beamer",
+        "extension": ".nav",
+        "name": "beamer navigation bar",
+        "type": "auxillary"
+    },
+    {
+        "creator": "beamerarticle",
+        "extension": ".snm",
+        "name": "beamerarticle pgfimage",
+        "type": "auxillary"
+    },
+    {
+        "creator": "beamer",
+        "extension": ".vrb",
+        "name": "beamer verbatim",
+        "type": "auxillary"
+    },
+    {
+        "creator": "minitoc",
+        "extension": ".maf",
+        "name": "minitoc auxillary file list",
+        "type": "auxillary"
+    },
+    {
+        "creator": "minitoc",
+        "extension": ".mlf[0-9]*",
+        "name": "minitoc list of figures",
+        "type": "include"
+    },
+    {
+        "creator": "minitoc",
+        "extension": ".mlt[0-9]*",
+        "name": "minitoc list of tables",
+        "type": "include"
+    },
+    {
+        "creator": "minitoc",
+        "extension": ".mtc[0-9]*",
+        "name": "minitoc auxillary",
+        "type": "auxillary"
+    },
+    {
+        "creator": "minitoc",
+        "extension": ".slf[0-9]*",
+        "name": "minitoc section-level list of figures",
+        "type": "include"
+    },
+    {
+        "creator": "minitoc",
+        "extension": ".slt[0-9]*",
+        "name": "minitoc section-level list of tables",
+        "type": "include"
+    },
+    {
+        "creator": "minitoc",
+        "extension": ".stc[0-9]*",
+        "name": "minitoc section-level auxillary",
+        "type": "auxillary"
+    },
+    {
+        "creator": "amsthm",
+        "extension": ".thm",
+        "name": "amsthm style",
+        "type": "style"
+    }
+]
