@@ -4,7 +4,7 @@ texclean
 Yet another script for cleaning up after LaTeX
 
 LaTeX compilation generates a lot of files aside from the final document; this script removes them. 
-This is useful for for maintaining a clean file system and for resolving certain classes of LaTeX bugs.
+This is useful for maintaining a clean file system and for resolving certain classes of LaTeX bugs.
 
 Key features
 ------------
